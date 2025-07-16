@@ -1,7 +1,7 @@
 ﻿Imports System.Data.Odbc
-Imports System.Windows.Forms.VisualStyles
 Imports System.IO
 Imports System.Text
+Imports System.Data
 
 Public Class FrmCustomerLst
     Private connection As OdbcConnection
